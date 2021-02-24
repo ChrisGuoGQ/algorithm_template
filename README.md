@@ -1,2 +1,2 @@
 # algorithm_template
-some
+my algorithm tmplate collection
